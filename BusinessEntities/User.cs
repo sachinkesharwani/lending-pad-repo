@@ -36,6 +36,7 @@ namespace BusinessEntities
             get => _monthlySalary;
             private set => _monthlySalary = value;
         }
+        public decimal AnnualSalary => (decimal)(MonthlySalary * 12);
 
         public int Age
         {
@@ -62,7 +63,7 @@ namespace BusinessEntities
         {
             if (string.IsNullOrEmpty(email))
             {
-                throw new ArgumentNullException("Name was not provided.");
+                throw new ArgumentNullException("Email was not provided.");
             }
             _email = email;
         }
@@ -85,6 +86,14 @@ namespace BusinessEntities
         public void SetTags(IEnumerable<string> tags)
         {
             _tags.Initialize(tags);
+        }
+        public void UpdateUserDetails(string name, string email, string type, decimal monthlySalary, List<string> tags)
+        {
+            SetName(name);
+            SetEmail(email);
+            SetType(Type);
+            SetMonthlySalary(monthlySalary);
+            SetTags(tags);
         }
     }
 }

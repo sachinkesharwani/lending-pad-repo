@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NANcJ6vMT78=",
+  "dgSpecHash": "6Fz/e0NB6o0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kesharws\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",
     "C:\\Users\\kesharws\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

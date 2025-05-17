@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CzVThKEpYvM=",
+  "dgSpecHash": "X6BOlsEgbV8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+  "projectFilePath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\BusinessEntities\\BusinessEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kesharws\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kesharws\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",

@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Common
-build_property.ProjectDir = C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\Common\
+build_property.ProjectDir = C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\LendingPadSampleProject\Common\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

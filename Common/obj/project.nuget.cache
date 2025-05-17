@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3jQgXr61XA=",
+  "dgSpecHash": "Z5QBIu83gi8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kesharws\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kesharws\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",

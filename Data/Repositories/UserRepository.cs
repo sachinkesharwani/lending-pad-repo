@@ -17,9 +17,12 @@ namespace Data.Repositories
             _documentSession = documentSession;
         }
 
-        public IEnumerable<User> Get(UserTypes? userType = null, string name = null, string email = null)
+        public IEnumerable<User> Get(UserTypes? userType = null, string name = null, string email = null, string[] tags = null)
         {
-            var query = _documentSession.Advanced.DocumentQuery<User, UsersListIndex>();
+            var query = _documentSession
+           .Advanced
+           .DocumentQuery<User, UsersListIndex>()
+           .WhereIn("Tags", tags); // Query on the indexed "Tags" field
 
             var hasFirstParameter = false;
             if (userType != null)
@@ -48,6 +51,13 @@ namespace Data.Repositories
                     query = query.AndAlso();
                 }
                 query = query.WhereEquals("Email", email);
+            }
+            if (tags != null && tags.Length > 0)
+            {
+                if (hasFirstParameter) query = query.AndAlso();
+
+                // Exact match: user must have at least one of the exact tags provided
+                query = query.WhereIn("Tags", tags);
             }
             return query.ToList();
         }

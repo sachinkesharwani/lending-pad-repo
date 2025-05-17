@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\Common\\Common.csproj": {}
+    "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\Common\\Common.csproj": {
+    "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\kesharws\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\Common\\obj\\",
+        "outputPath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\LendingPadSampleProject\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
