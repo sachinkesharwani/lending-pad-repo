@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE240FB9-285A-4715-A5CC-E4EB2FF92F5A}|WebApi\\WebApi.csproj|c:\\users\\kesharws\\downloads\\sample-project-main\\sample-project-main\\sampleproject\\webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE240FB9-285A-4715-A5CC-E4EB2FF92F5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\kesharws\\Downloads\\sample-project-main\\sample-project-main\\SampleProject\\WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:05:38.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

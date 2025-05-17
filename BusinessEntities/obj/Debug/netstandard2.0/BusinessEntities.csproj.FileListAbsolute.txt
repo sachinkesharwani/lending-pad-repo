@@ -1,0 +1,13 @@
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.deps.json
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.pdb
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\Common.dll
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfo.cs
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\Business.AB0907CC.Up2Date
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\kesharws\Downloads\sample-project-main\sample-project-main\SampleProject\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.pdb
